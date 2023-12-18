@@ -1,0 +1,88 @@
+.body p{
+    background-color: mediumblue;
+    color: white;
+}.body
+{
+    font-family: Georgia, 'Times New Roman', serif;
+    color: mediumblue;
+    font-size: small;
+}
+.body input{
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: small;
+    background: transparent; 
+    border: none;
+    outline: none;
+    border-bottom: 1px solid ;
+    padding-left: 5px; 
+}
+.form
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+    padding-bottom: 15px;
+    
+}
+.datepicker{
+    padding-left: 30px;
+}
+.form1
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+}
+.body h2{
+    background-color: mediumblue;
+    text-align: center;
+    color: white;
+}
+body .incident{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly; 
+    height: 60px; 
+}
+.location input{
+    width: 55%;
+}
+.location{
+    padding-left: 15px; 
+}
+.body .dropdown{
+    padding: 30Px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-left: 70px;
+}
+.body textarea{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    background-color: lightblue;
+    justify-content: space-around;
+    padding-left: 5px; 
+}
+.textarea{
+    padding-left: 30px;
+    padding-bottom: 3%;    
+}
+.submit button{
+    background-color: blue;
+    color: white; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
